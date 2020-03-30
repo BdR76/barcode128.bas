@@ -29,7 +29,7 @@ How to use
 3) Go to File > Import Basic and import the .bas file
 4) Go to sheet cell A1, paste a product code
 5) In cell B1 type the formula `=BARCODE128_ENCODED(A1)`
-6) Set font of cell B1 to Barcode 128 font
+6) Set font of cell B1 to Barcode 128 font and increase text size
 
 Barcode font
 ------------
