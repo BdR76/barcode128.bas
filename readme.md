@@ -11,12 +11,6 @@ change the font to a barcode font. See the screenshot above; the texts or
 product codes (column A) must first be encoded (column B), and then the
 barcode 128 font is applied to the encoded texts (column C).
 
-The encoded barcode text consists of:
-* A start symbol
-* One or more encoded data characters
-* A checksum symbol
-* A stop symbol
-
 This results in a compact barcode, using as little space as possible,
 especially when the text contains just digits.
 For more information see [Wikipedia](https://en.wikipedia.org/wiki/Code_128).
