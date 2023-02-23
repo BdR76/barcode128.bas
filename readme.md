@@ -27,7 +27,7 @@ How to use
 
 Barcode font
 ------------
-Use the [Libre Barcode 128 font](https://fonts.google.com/specimen/Libre+Barcode+128+Text) 
+Use the [Libre Barcode 128 font](https://fonts.google.com/?query=barcode+128) 
 on the encoded texts to print scannable barcodes.
 
 History
